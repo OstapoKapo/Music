@@ -1,0 +1,487 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrap{
+    width: 100%;
+    height: 100vh;
+    padding: 20px 100px 0 100px;
+    display: flex;
+    flex-direction: column;
+}
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    width: 100%;
+    height: 70px;
+   
+    display: flex;
+    align-items: center;
+}
+.underLogo{
+    width: 1720px;
+height: 3px;
+background: #F5F5F5;
+border-radius: 26px;
+margin-top: 70px;
+margin-top: -1px;
+}
+.logo{
+    width: 179px;
+height: 65.31px;
+background-image: url(icon_content.png);
+background-size: cover;
+}
+.logoIcon{
+    width: 23px;
+    height: 23px;
+    margin-left: 40px;
+    background-image: url(instagram.png);
+    background-size: cover;
+   
+    
+}
+.logoIcon2{
+    width: 35px;
+    height: 15px;
+    margin-left: 35px;
+    background-image: url(Vector\ \(2\).png);
+    background-size: cover;
+}
+.logoIcon3{
+    width: 11px;
+    height: 21px;
+    margin-left: 35px;
+    background-image: url(Vector\ \(3\).png);
+    background-size: cover;
+    margin-right: 1120px;
+}
+.advert{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.05em;
+margin-left: -49px;
+
+
+
+color: #000000;
+
+}
+.pageCenter{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+}
+.pageLeft{
+    width: 83%;
+    height: 100%;
+   
+    display: flex;
+    flex-direction: column;
+   
+    align-items: center;
+    padding-top: 120px;
+
+}
+.music{
+    height: 70%;
+    width: 100%;
+    
+    display: flex;
+    align-items: center;
+    
+
+
+}
+.musicImg{
+    width: 450px;
+height: 450px;
+background-image: url(Group\ 3.png);
+background-size: cover;
+margin-right: 50px;
+
+
+}
+.musicP{
+    width: 50%;
+    height: 60%;
+    
+    display: flex;
+    flex-direction: column;
+}
+.musicP1{
+  
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+margin-bottom: 20PX;
+}
+.musicP2{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 43px;
+letter-spacing: 0.05em;
+
+}
+.musicP3{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+
+color: rgba(0, 0, 0, 0.3);
+margin-bottom: 15px;
+
+}
+.musicPlay{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    
+}
+.play1{
+    Width:14px;
+Height :17px;
+background-image: url(start.png);
+background-size: cover;
+margin-right:35px ;
+
+}
+.play2{
+    width: 22px;
+    height: 17px;
+    background-image: url(Vector\ \(4\).png);
+    background-size: cover;
+    margin-right: 15px;
+}
+.line{
+    width: 82px;
+height: 3px;
+left: 764px;
+top: 448px;
+
+background: #F0F0F0;
+border-radius: 15px;
+}
+.fullLine{
+    width: 52px;
+height: 3px;
+left: 764px;
+top: 448px;
+
+background: rgba(0, 0, 0, 0.3);
+border-radius: 15px;
+
+}
+.image{
+    width: 100%;
+    height: 110px;
+    display: flex;
+
+    margin-top: 70px;
+}
+.image1{
+    width: 100px;
+    height: 99.01px;
+    background-image: url(radio_lux.png);
+    background-size: cover;
+
+   
+}
+.image2{
+    width: 100px;
+height: 99.01px;
+background-image: url(OFR_fm.png);
+background-size: cover;
+}
+.image3{
+    width: 258px;
+height: 99.01px;
+
+
+background: url(nostalgie.png);
+background-size: cover;
+}
+
+.image4{
+    width: 259.35px;
+height: 99.01px;
+left: 558px;
+top: 911.99px;
+
+background-image: url(output-onlinepngtools\ \(10\).png);
+background-size: cover;
+}
+.image5{
+    width: 170.67px;
+height: 99.01px;
+
+
+background-image: url(zolochiv.png);
+background-size: cover;
+
+}
+.image6{
+    width: 231.48px;
+height: 99.01px;
+
+
+background-image: url(UKR-sprava.png);
+background-size: cover;
+}
+.image7{
+    width: 231.48px;
+height: 99.01px;
+
+
+background-image: url(tart.png);
+background-size: cover;
+
+}
+.pageRight{
+    width: 17%;
+    height: 100%;
+   
+    display: flex;
+    flex-direction: column;
+
+}
+.rightP{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+
+color: #000000;
+
+margin-top: 40px;
+margin-bottom: 30px;
+}
+.list1{
+    width: 187px;
+height: 60px;
+display: flex;
+
+}
+.listImg{
+    width: 60px;
+height: 60px;
+
+
+background: url(logo.png);
+background-size: cover;
+}
+.listP{
+    width: 127px;
+height: 60px;
+
+
+
+
+
+
+background: #F9F9F9;
+}
+.list1P{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 17px;
+/* identical to box height */
+margin-left: 3px;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+.list1P2{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+margin-left: 3px;
+margin-top: 3px;
+color: rgba(0, 0, 0, 0.3);
+
+
+}
+.list1P3{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+margin-left: 3px;
+color: rgba(0, 0, 0, 0.3);
+}
+.pImg{
+    width: 100%;
+    height: 12px;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+.pImg1{
+    width: 12px;
+    height: 11px;
+    background-image: url(Vector\ \(5\).png);
+    background-size: cover;
+    margin-right: 3px;
+}  
+.list2{
+    width: 187px;
+    height: 60px;
+    display: flex;
+   
+    margin: 15px 0 ;
+    
+}  
+.listImg2{
+    width: 60px;
+height: 60px;
+
+
+background: url(image\ 2\ \(1\).png);
+background-size: cover;
+}
+.listP2{
+    width: 127px;
+height: 60px;
+
+
+
+
+
+
+background: #F9F9F9;
+}
+.list2P{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 17px;
+/* identical to box height */
+margin-left: 3px;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+.list2P2{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+margin-left: 3px;
+margin-top: 3px;
+color: rgba(0, 0, 0, 0.3);
+
+
+}
+.list2P3{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+margin-left: 3px;
+color: rgba(0, 0, 0, 0.3);
+}
+.list3{
+    width: 187px;
+    height: 60px;
+    display: flex;
+   
+}
+.listImg3{
+    width: 60px;
+height: 60px;
+
+
+background: url(image\ 3.png);
+background-size: cover;
+}
+.listP3{
+    width: 127px;
+height: 60px;
+
+
+
+
+
+
+background: #F9F9F9;
+}
+.list3P{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 17px;
+/* identical to box height */
+margin-left: 3px;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+}
+.list3P2{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+margin-left: 3px;
+margin-top: 3px;
+color: rgba(0, 0, 0, 0.3);
+
+
+}
+.list3P3{
+    font-family: e-Ukraine;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 12px;
+/* identical to box height */
+
+letter-spacing: 0.05em;
+margin-left: 3px;
+color: rgba(0, 0, 0, 0.3);
+}
+
